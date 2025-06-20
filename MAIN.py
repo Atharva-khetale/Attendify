@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 import face_recognition
 
-path = r"C:\Users\athar\Desktop\New folder"
+path = r"C:\Users\athar\Desktop\TE A"
 url = 'http://192.168.231.162/cam-hi.jpg'
 ##'''cam.bmp / cam-lo.jpg /cam-hi.jpg / cam.mjpeg '''
 
