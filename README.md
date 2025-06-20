@@ -55,10 +55,9 @@
 ## 📁 Project Structure
 
 ```
-├── attendance.py         # Main face recognition and marking script
+├── MAIN.py         # Main face recognition and marking script
 ├── db_config.sql         # SQL schema for student face data
 ├── /dataset              # Stored face images for training
-├── /models               # Trained recognizer model
 ├── attendance.xlsx       # Generated attendance sheet
 └── esp32-cam-config/     # Firmware and setup guide
 ```
